@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zoomin-lee/zoomin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Zoomin-lee 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzoomin-lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Zoomin's github stats](https://github-readme-stats.vercel.app/api?username=zoomin-lee&show_icons=true)
 
